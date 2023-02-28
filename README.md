@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jimmy2849
-- 🌱 I’m currently learning github from the beginner's course.
+- 🌱 I’m currently learning github from beginning.
 
 
 <!---
